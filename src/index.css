@@ -9,6 +9,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+display:flex;
+flex-direction:row;
+justify-content: space-around;
+margin-top:1em;
 }
 
 code {
@@ -18,7 +22,6 @@ code {
 .main-app{
   display: flex;
   flex-direction:row;
-
   justify-content: space-between;
 }
 
@@ -26,6 +29,7 @@ code {
                                         body{
                                           background: black;
                                           color:white;
+                                          display:block;
                                         }
                                         .main-app{
                                           display: flex;

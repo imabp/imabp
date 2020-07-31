@@ -52,7 +52,7 @@ const useStyles = makeStyles((theme) => ({
     root: {
           flexGrow: 1,
           width: '100%',
-          backgroundColor: 'black',
+          backgroundColor: 'seagreen  ',
           color:'white'
     },
   }
@@ -68,7 +68,7 @@ export default function ScrollableTabsButtonForce() {
 
                                                         return (
                                                             <div className={classes.root}>
-                                                            <AppBar position="static" color="black">
+                                                            <AppBar position="static" color='default'>
                                                                 <Tabs
                                                                 value={value}
                                                                 onChange={handleChange}
@@ -77,6 +77,8 @@ export default function ScrollableTabsButtonForce() {
                                                                 indicatorColor="inherit"
                                                                 textColor="inherit"
                                                                 aria-label="scrollable force tabs example"
+                                                                color="white"
+                                                                style={{background:'black', color:'white'}}
                                                                 >
                                                                 <Tab label="Item One" icon={<PhoneIcon />} {...a11yProps(0)} />
                                                                 <Tab label="Item Two" icon={<FavoriteIcon />} {...a11yProps(1)} />
@@ -91,7 +93,7 @@ export default function ScrollableTabsButtonForce() {
                                                                 Item Onedsadsadsa
                                                             </TabPanel>
                                                             <TabPanel value={value} index={1}>
-                                                                Item Two
+                                                                Item Twod<br/><br/>sadsd
                                                             </TabPanel>
                                                             <TabPanel value={value} index={2}>
                                                                 Item Three
