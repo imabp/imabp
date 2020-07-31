@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10246b037ec170f68da29e6f108d927e",
+    "revision": "b4c162677241fdd5c2ea080b9ffce94b",
     "url": "/imabp/index.html"
   },
   {
-    "revision": "07c6c56ac3d289caf7f6",
-    "url": "/imabp/static/css/main.3d870ae1.chunk.css"
+    "revision": "cf7ef0845eba2efe54da",
+    "url": "/imabp/static/css/main.f66190ea.chunk.css"
   },
   {
     "revision": "883f78de8264d6fabda9",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/imabp/static/js/2.c7886d27.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "07c6c56ac3d289caf7f6",
-    "url": "/imabp/static/js/main.eaa07274.chunk.js"
+    "revision": "cf7ef0845eba2efe54da",
+    "url": "/imabp/static/js/main.b230ebe4.chunk.js"
   },
   {
     "revision": "7d8cf85b9d9a4b65941b",
