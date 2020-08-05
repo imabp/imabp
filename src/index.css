@@ -11,8 +11,9 @@ body {
   -moz-osx-font-smoothing: grayscale;
 display:flex;
 flex-direction:row;
-justify-content: space-around;
+justify-content: center;
 margin-top:1em;
+background-color: black ;
 }
 
 code {

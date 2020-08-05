@@ -4,7 +4,6 @@ import { makeStyles } from '@material-ui/core/styles';
 import AppBar from '@material-ui/core/AppBar';
 import Tabs from '@material-ui/core/Tabs';
 import Tab from '@material-ui/core/Tab';
-import PhoneIcon from '@material-ui/icons/Phone';
 import FavoriteIcon from '@material-ui/icons/Favorite';
 import PersonPinIcon from '@material-ui/icons/PersonPin';
 import HelpIcon from '@material-ui/icons/Help';
@@ -13,8 +12,9 @@ import ThumbDown from '@material-ui/icons/ThumbDown';
 import ThumbUp from '@material-ui/icons/ThumbUp';
 import Typography from '@material-ui/core/Typography';
 import Box from '@material-ui/core/Box';
-import useMediaQuery from '@material-ui/core/useMediaQuery';
 
+import About from '../AboutME/main';
+import Project from '../Projects/main'
 function TabPanel(props) {
   const { children, value, index, ...other } = props;
 
@@ -52,7 +52,7 @@ const useStyles = makeStyles((theme) => ({
     root: {
           flexGrow: 1,
           width: '100%',
-          backgroundColor: 'seagreen  ',
+          backgroundColor: 'black',
           color:'white'
     },
   }
@@ -65,7 +65,7 @@ export default function ScrollableTabsButtonForce() {
                                                         const handleChange = (event, newValue) => {
                                                             setValue(newValue);
                                                         };
-
+                                                      
                                                         return (
                                                             <div className={classes.root}>
                                                             <AppBar position="static" color='default'>
@@ -80,9 +80,9 @@ export default function ScrollableTabsButtonForce() {
                                                                 color="white"
                                                                 style={{background:'black', color:'white'}}
                                                                 >
-                                                                <Tab label="Item One" icon={<PhoneIcon />} {...a11yProps(0)} />
-                                                                <Tab label="Item Two" icon={<FavoriteIcon />} {...a11yProps(1)} />
-                                                                <Tab label="Item Three" icon={<PersonPinIcon />} {...a11yProps(2)} />
+                                                                <Tab label="About Me"  style={{color:'#40E0D0'}} icon={<PersonPinIcon />} {...a11yProps(0)} />
+                                                                <Tab label="My Projects" style={{color:'red'}} icon={<FavoriteIcon />} {...a11yProps(1)} />
+                                                                <Tab label="Blogs" style={{color:'yellow'}} icon={<ShoppingBasket />} {...a11yProps(2)} />
                                                                 <Tab label="Item Four" icon={<HelpIcon />} {...a11yProps(3)} />
                                                                 <Tab label="Item Five" icon={<ShoppingBasket />} {...a11yProps(4)} />
                                                                 <Tab label="Item Six" icon={<ThumbDown />} {...a11yProps(5)} />
@@ -90,10 +90,10 @@ export default function ScrollableTabsButtonForce() {
                                                                 </Tabs>
                                                             </AppBar>
                                                             <TabPanel value={value} index={0}>
-                                                                Item Onedsadsadsa
+                                                                <About/>
                                                             </TabPanel>
                                                             <TabPanel value={value} index={1}>
-                                                                Item Twod<br/><br/>sadsd
+                                                                <Project/>
                                                             </TabPanel>
                                                             <TabPanel value={value} index={2}>
                                                                 Item Three

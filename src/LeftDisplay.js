@@ -1,5 +1,7 @@
 import React, {Component} from 'react';
 
+
+// Update: Avatar not displayed. 
 class Avatar extends Component{
     render(){
         
@@ -10,6 +12,7 @@ class Avatar extends Component{
         )
     }
 }
+
 class UserName extends Component{
     render(){
         const fname=this.props.details["fn"];
@@ -28,8 +31,6 @@ class Description extends Component{
         </div>
     }
 }
-
-
 class LeftDisplay extends Component{
   render()
   {
