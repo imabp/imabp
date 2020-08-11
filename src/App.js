@@ -4,7 +4,8 @@ import Menubar from './components/MenuBar/menubar'
 import { makeStyles } from '@material-ui/core/styles';
 import Paper from '@material-ui/core/Paper';
 import Grid from '@material-ui/core/Grid';
-
+import favicon from './images/favicon.svg';
+import { motion } from "framer-motion"
 const useStyles=makeStyles((theme)=>({
 LeftPanel:{
   background:'black',
@@ -15,7 +16,10 @@ LeftPanel:{
 
 }))
 function App() {
-  
+        const variants = {
+          visible: { opacity: 1 },
+          hidden: { opacity: 0 },
+        }
     const details= {
         "firstname":"Abir",
         "lastname":"Pal",
@@ -28,7 +32,14 @@ function App() {
                  }
                  const classes = useStyles();
   return (
+    <motion.div
+  initial="hidden"
+  animate="visible"
+  variants={variants}
+
+>
     <div className="main-app">
+       <link rel="icon" href={favicon}/>
       <div className={classes.LeftPanel}><LeftDisplay details={details}/></div>
       <Grid container spacing={3}>
                <Grid item xs={12}>
@@ -39,6 +50,7 @@ function App() {
               </Grid>
       </Grid>
     </div>
+    </motion.div>
     );
   
 }

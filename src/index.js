@@ -3,10 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-
+import Container from '@material-ui/core/Container';
 ReactDOM.render(
   <React.StrictMode>
+    <Container maxWidth="lg" minWidth="sm" fixed>
     <App />
+    </Container>
+
   </React.StrictMode>,
   document.getElementById('root')
 );

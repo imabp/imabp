@@ -1,14 +1,18 @@
 import React, {Component} from 'react';
-
-
+import favicon from './images/favicon.svg'
+import {motion} from "framer-motion"
 // Update: Avatar not displayed. 
 class Avatar extends Component{
     render(){
         
         return(
-            <div className="avatar-class">
-                <img alt="Avatar"  src={this.props.details}/>
-            </div>
+            <motion.div className="avatar-class" animate={{
+                
+                rotate: [50, 270, 270, 120, 360],
+               
+              }}>
+                <img alt="Avatar"  src={favicon}/>
+            </motion.div>
         )
     }
 }
