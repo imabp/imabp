@@ -1,6 +1,8 @@
 import React, {Component} from 'react';
 import favicon from './images/favicon.svg'
 import {motion} from "framer-motion"
+
+import mspbadge from './images/msp_badge.svg'
 // Update: Avatar not displayed. 
 class Avatar extends Component{
     render(){
@@ -22,8 +24,9 @@ class UserName extends Component{
         const fname=this.props.details["fn"];
         const lname=this.props.details["ln"];
         return(
-           <div className="username">
-              <span>{fname} {lname}</span>
+           <div className="username" style={{textAlign:"center"}}>
+             
+              <span><h1>{fname} {lname}</h1></span>
            </div>
         )
     }
@@ -31,7 +34,9 @@ class UserName extends Component{
 class Description extends Component{
     render(){
         return <div className="desc">
-            <p className="CODEdecorate">{this.props.details}</p>
+            <p className="CODEdecorate" style={{textAlign:"center"}}>{this.props.details}<br/><br/>
+            <img alt="msp" width="70%" src={mspbadge}/><br/></p>
+          
         </div>
     }
 }
@@ -42,7 +47,7 @@ class LeftDisplay extends Component{
    return ( 
              <div className="LeftPanel">
              
-                <Avatar details={this.props.details['avatar']}/>
+                <Avatar/><br/>
                 <UserName details={{"fn":this.props.details['firstname'],"ln":this.props.details['lastname']}} />
                 <Description details="Computer Science Undergraduate"/>
               

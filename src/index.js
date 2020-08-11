@@ -6,7 +6,7 @@ import * as serviceWorker from './serviceWorker';
 import Container from '@material-ui/core/Container';
 ReactDOM.render(
   <React.StrictMode>
-    <Container maxWidth="lg" minWidth="sm" fixed>
+    <Container max-width="lg" min-width="sm" fixed>
     <App />
     </Container>
 
