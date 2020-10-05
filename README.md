@@ -9,3 +9,6 @@ This is Abir, Fast Learner and CS Student 🎇. And I ❤ to build applications 
 <img src="https://github.com/imabp/imabp/blob/gh-pages/static/readmeAssets/Overview.gif" width="90%"><br/><br/>
 
 </p>
+### Projects
+- We made Kladi, an easy to use state-management library for React
+- Being Community and Development Lead of Tech Phantoms, we are making super cool open source projects. You can check out them (here)[https://github.com/ninja-developers]
