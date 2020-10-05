@@ -13,7 +13,7 @@ This is Abir, Fast Learner and CS Student 🎇. And I ❤ to build applications 
 
 - We made Kladi, an easy to use state-management library for React . Run `npm i kladi` to install. Check source code [here](https://github.com/ninja-developers/kladi)
 - Being Community and Development Lead of Tech Phantoms, we are making super cool open source projects. You can check out them [here](https://github.com/ninja-developers)
-
+- In the meantime, I maintain docs @travisCI
 <p align=center><br/><br/>
 <img src="https://github.com/imabp/imabp/blob/gh-pages/static/readmeAssets/Overview.gif" width="90%"><br/><br/>
 
