@@ -2,7 +2,7 @@
 This is Abir, Fast Learner and CS Student 🎇. And I ❤ to build applications and maintain them. Below is brief overview, of the technologies and many other collaborative work I have done so far, hope you find it appealing. I am open to collaborate on software engineering projects. In mean time, I play piano. 🎹...🤭
 <p align=center>
   
-- ```I am leading and maintaining code at``` [@techphantoms](https://github.com/ninja-developers) ```hosted on netlify``` [here](https://techphantoms.netlify.app) <br/>
+- ```I am leading and maintaining code at``` [@techphantoms](https://github.com/tech-phantoms) ```hosted on netlify``` [here](https://techphantoms.netlify.app) <br/>
 - ``` I love to share my learnings with my peers and interested learners. ``` <br/>
 - ``` I have given many speak up events at MLH Hackathons and MSFT Student Ambassador Events. ```
 - ``` I believe in Learning by Doing. ```
