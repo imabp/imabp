@@ -6,8 +6,8 @@ This is Abir, Fast Learner and CS Student 🎇. And I ❤ to build applications 
 - ``` I love to share my learnings with my peers and interested learners. ``` <br/>
 - ``` I have given many speak up events at MLH Hackathons and MSFT Student Ambassador Events.```
 - ```Check my profile at``` @Microsoft  [here](https://studentambassadors.microsoft.com/en-US/profile/49532)
-- ``` I believe in Learning by Doing. I speak about Open Source and leveraging Github tools and technologies.```
-- ``` Looking for a collab on an Open Source event. We can discuss it``` [here](https://github.com/imabp/collabs)
+- ``` I believe in Learning by Doing. I speak on Open Source and leveraging Github tools and technologies.```
+- ``` Looking for a collab? for an Open Source event. Feel free to discuss about it``` [here](https://github.com/imabp/collabs)
 </p>
 
 
