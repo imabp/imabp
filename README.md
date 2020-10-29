@@ -13,7 +13,7 @@ This is Abir, Fast Learner and CS Student 🎇. And I ❤ to build applications 
 
 ### Projects
 
-- Recently my PRs were merged at **Mozilla Firefox Devtools** [here](https://github.com/firefox-devtools/profiler/pull/2937) and **Travis CI** [here](https://github.com/travis-ci/docs-travis-ci-com/pull/2881)
+- Recently my PRs were merged at `Mozilla Firefox Devtools` [here](https://github.com/firefox-devtools/profiler/pull/2937) and `Travis CI` [here](https://github.com/travis-ci/docs-travis-ci-com/pull/2881)
 - 👨‍💻We made Kladi, an easy to use state-management library for React . Run `npm i kladi` to install. Check source code [here](https://github.com/tech-phantoms/kladi)
 - 🙋‍♂️Being Community and Development Lead of Tech Phantoms, we are making super cool open source projects. You can check out them [here](https://github.com/tech-phantoms)
 - 📃 In the meantime, I maintain docs @travisCI.
