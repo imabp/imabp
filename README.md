@@ -24,5 +24,5 @@ Along with this, I help founders, to evaluate and grow their brand. And have bee
   
 #### Sounds Interesting!!
 We can talk  on [Twitter](https://twitter.com/imabptweets)<br/> or if you would like to see my
-[Resume](https://imabp.github.io/resume)<br/> and you want to [Mail](mailto:abir.pal899@gmail.com), I would be glad.
+[Resume](https://imabp.github.io/resume)<br/> and you want to [contact@abirpal.co](mailto:contact@abirpal.co), I would be glad.
 <br/>
