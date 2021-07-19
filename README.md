@@ -18,11 +18,19 @@ Along with this, I help founders, to evaluate and grow their brand. And have bee
 #### Featured Projects
 
 - [Blog Traversy](https://www.npmjs.com/package/blogtraversy) (Generated over 10k+ Engagements on [Tweet](https://twitter.com/imabptweets/status/1416761082471862273) )
+  - A Package, that fetches you all your blogs on Medium and Hashnode, and can be used to serve it on your web page.
 - [CryptoDrive](https://cryptodrive.tech) (Selected as [Global Winner at MLH Fellowship](https://devpost.com/software/cryptodrive))
+  - A decentralized, file sharing and storage solutions built on Ethereum, using Solidity and IPFS.
 - [Certigen](https://github.com/imabp/certigen) (Actively used by 1000+ Student Ambassadors at Microsoft)
+  - Project under mentorship of **Ronak Shakuja, Software Engineer at Microsoft.**
+  - It helps to generate and maintain event certificates in 10 seconds, using Postman.
 - [Web Terminal](https://imabp.github.io/WebTerminal/) (Bring Linux Terminal Experience on Web, IIT KWOC Project)
-  
+  - Web Terminal is the simulated Linux Terminal on Browser and has already impacted more than 500+ Students in various workshops I conducted.
+  - Feature: Used Tree Data Structure to build File Hierarchy System.
+
 #### Sounds Interesting!!
+
 We can talk  on [Twitter](https://twitter.com/imabptweets)<br/> or if you would like to see my
 [Resume](https://imabp.github.io/resume)<br/> and you want to [contact@abirpal.co](mailto:contact@abirpal.co), I would be glad.
 <br/>
+_**Open for getting Hired.🎉**_
