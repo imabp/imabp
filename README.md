@@ -4,7 +4,7 @@ Along with this, I help founders, to evaluate and grow their brand. And have bee
 
 - Global Advocacy for Postman Inc. [Featured on Postman](https://blog.postman.com/announcing-the-postman-student-leader-program/)
 - Most Valuable Professional at SAWO Labs. [Featured by JavaScript Official ](https://twitter.com/JavaScriptKicks/status/1412096578719043584)
-- Invited Speaker at Carnegie Mellon University, Georgia Tech and UC Berkeley on API Designs and Scalablility.
+- Invited Speaker at **Carnegie Mellon University, Georgia Tech and UC Berkeley** on API Designs and Scalablility.
 - Judge at MLH Fellowship Production Engineering
 - Helping communities with setting up direction and also part of Student Ambassadors at MSFTStudentAmbassador Program 
 - I organize API Hacks, with a mission to build digital footprint of starters in tech.
