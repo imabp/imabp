@@ -1,5 +1,5 @@
 # Hi there 🙋‍♂️
-This is Abir, CS UG Senior Student and a software developer, who build things, with purpose and craft them with love...<br/>
+I am Abir, Computer Science Undergraduate Senior Student from CHandigarh University(NIRF 61) and a software developer, who build things, with purpose and craft them with love...<br/>
 
 <details>
   <summary>TLDR: <i>Click to view</i> </summary>
