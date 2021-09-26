@@ -5,7 +5,7 @@ This is Abir, CS UG Senior Student and a software developer, who build things, w
   <summary>TLDR: <i>Click to view</i> </summary>
   
 - ✈️ Open to get Hired for remote work & internships. Reach out on [Mail](mailto:abir.pal899@gmail.com),[Twitter](https://twitter.com/imabptweets) <br/>
-- Software Developer and Product Management <br/>( Proficient in Typescript, Java, React, Node, Electron, also a Guest Speaker at UC Berkeley, Georgia Tech, Carnegie Mellon University, JIRA, building bots and packages)
+- Full Stack Software Developer and Consultancy <br/>( Proficient in Typescript, Java, React, Node, Electron, also a Guest Speaker at UC Berkeley, Georgia Tech, Carnegie Mellon University, JIRA, building bots and packages)
 - 💼 Resume: [Resume](https://imabp.github.io/resume) _you can save this one time link for every updations on resume._ <br/>
 - 🌏 API designing and scaling. [Featured by JavaScript Official ](https://twitter.com/JavaScriptKicks/status/1412096578719043584)
 - Won MLH Fellowship Global Hackathon on theme data ethics, for product [Cryptodrive](https://devpost.com/software/cryptodrive) 
