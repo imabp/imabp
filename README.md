@@ -12,7 +12,7 @@ I am Abir, Computer Science Undergraduate Final Year Student from Chandigarh Uni
 </details>
 
 Along with this, I help founders, to evaluate and grow their brand. And have been actively volunteering as:<br/>
-- Global Advocacy for Postman Inc. [Featured on Postman Inc.](https://blog.postman.com/announcing-the-postman-student-leader-program/) , [Speaker at Postman API Conf](https://www.postman.com/company/student-program/student-summit/) and a Gold Student Ambassador at Microsoft.
+- Global Advocacy for Postman Inc. [Featured on Postman Inc.](https://www.youtube.com/watch?v=-P_IGKuYmeY) , [Speaker at Postman API Conf](https://www.postman.com/company/student-program/student-summit/) and a Gold Student Ambassador at Microsoft.
 - Judge at MLH Fellowship Production Engineering | Code Contributor at: [Firefox Devtools](https://github.com/firefox-devtools/profiler/pull/2937) and watching docs at [TravisCI](https://github.com/travis-ci/docs-travis-ci-com/pull/2881)
 - Invited Speaker at **Carnegie Mellon University, Georgia Tech and UC Berkeley** on API Designs and Scalablility.
 <details>
