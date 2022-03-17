@@ -14,7 +14,7 @@ I contribute to [AsyncAPI Initiative](https://github.com/asyncapi) out of love f
   and Proficient in
     - Typescript, NextJS, React, Node, Electron, Developer Tools like Git, Webpack, Babel
     - PostgreSQL, Terraform, Gitlab Runners, Github Actions, Docker
-    - Quickly Learn things by doing them out.
+    - **Quickly Learn things by doing them out.**
 
 - 💼 Resume: [Resume](https://imabp.github.io/resume) _you can save this one time link for every updations on resume._ <br/>
 - 🌏 API designing and scaling. [Featured by JavaScript Official ](https://twitter.com/JavaScriptKicks/status/1412096578719043584)
