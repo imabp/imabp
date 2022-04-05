@@ -3,9 +3,13 @@
 Abir is a curious software developer, who loves to build fullstack applications, demystify and unwind software abstractions. He is also a Major League Hacking Fellow and has won three international hackathons. He has been [Featured on Postman Inc.](https://www.youtube.com/watch?v=-P_IGKuYmeY), AsyncAPI Initiative, Javascript.info, Judge at MLH Fellowship, and also been invited as Guest Speaker at DSAILT Conference by Georgia Tech and Nvidia.
 <br/>
 
-I contribute to [AsyncAPI Initiative](https://github.com/asyncapi) out of love for Event Driven Architectures.
-
+He is currently working as Software Engineer at Codiga, USA. And he contributes to [AsyncAPI Initiative Open Source](https://github.com/asyncapi) out of love for Open Source and Event Driven Architectures.
 <br/>
+
+<a href="https://app.codiga.io/public/user/github/imabp">
+   <img src="https://api.codiga.io/public/badge/user/github/imabp?style=light" alt="codiga badge" />
+</a>
+
 
 - ✈️ Open for remote work. Reach out on [abir.pal899@gmail.com](mailto:abir.pal899@gmail.com),
   [@imabptweets](https://twitter.com/imabptweets) <br/>
