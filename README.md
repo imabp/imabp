@@ -11,7 +11,7 @@ He is currently working as Software Engineer at Codiga, USA. And he contributes 
 </a>
 
 
-- ✈️ Open for remote work. Reach out on [abir.pal899@gmail.com](mailto:abir.pal899@gmail.com),
+- ✈️ You may reach out on [abir.pal899@gmail.com](mailto:abir.pal899@gmail.com),
   [@imabptweets](https://twitter.com/imabptweets) <br/>
 
 - 💻 Full Stack Software Developer 
