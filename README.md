@@ -6,10 +6,18 @@ Abir is a curious software developer, who loves to build fullstack applications,
 He is currently working as Software Engineer at Codiga, USA. And he contributes to [AsyncAPI Initiative Open Source](https://github.com/asyncapi) out of love for Open Source and Event Driven Architectures.
 <br/>
 
-<a href="https://app.codiga.io/public/user/github/imabp">
-   <img src="https://api.codiga.io/public/badge/user/github/imabp?style=light" alt="codiga badge" />
-</a>
-
+<table>
+   <tr> 
+      <td>
+       <a href="https://app.codiga.io/public/user/github/imabp">
+         <img src="https://api.codiga.io/public/badge/user/github/imabp?style=light" alt="codiga badge" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.producthunt.com/posts/snipt-dev?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-snipt&#0045;dev" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=338490&theme=light&period=daily" alt="snipt&#0046;dev - Search&#0032;engine&#0032;for&#0032;code&#0032;snippets | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+      </td>
+  </tr>
+</table>
 
 - ✈️ You may reach out on [abir.pal899@gmail.com](mailto:abir.pal899@gmail.com),
   [@imabptweets](https://twitter.com/imabptweets) <br/>
