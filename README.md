@@ -1,9 +1,16 @@
-# Hi there 🙋‍♂️
+Abir- software engineer, creating value for people and businesses to thrive
 
-Abir is a curious software developer, who loves to build fullstack applications, demystify and unwind software abstractions. He is also a Major League Hacking Fellow and has won three international hackathons. He has been [Featured on Postman Inc.](https://www.youtube.com/watch?v=-P_IGKuYmeY), AsyncAPI Initiative, Javascript.info, Judge at MLH Fellowship, and also been invited as Guest Speaker at DSAILT Conference by Georgia Tech and Nvidia.
-<br/>
+current open source activity
+- TSC Member at [AsyncAPI Project](https://github.com/asyncapi)
 
-He is a TSC Member at [AsyncAPI Open Source Organization](https://github.com/asyncapi) for error interface.
+previously
+- Google Summer of Code 23 mentor
+- MLH batch 2 fellow
+- [Featured on Postman Inc.](https://www.youtube.com/watch?v=-P_IGKuYmeY)
+- speaker at daily conference by Georgia tech 
+- gold student partner, Microsoft education.
+
+
 <br/>
 
 <table>
@@ -14,16 +21,7 @@ He is a TSC Member at [AsyncAPI Open Source Organization](https://github.com/asy
   </tr>
 </table>
 
-- ✈️ You may reach out on [abir.pal899@gmail.com](mailto:abir.pal899@gmail.com),
-  [@imabptweets](https://twitter.com/imabptweets) <br/>
 
-- 💻 Full Stack Software Developer 
-  and Proficient in
-    - Typescript, NextJS, React, Node, Electron, Developer Tools like Git, Webpack, Babel
-    - PostgreSQL, Terraform, Gitlab Runners, Github Actions, Docker
-    - **Quickly Learn things by doing them out.**
-
-- 💼 Resume: [Resume](https://imabp.github.io/resume) _you can save this one time link for every updations on resume._ <br/>
 - 🌏 API designing and scaling. [Featured by JavaScript Official ](https://twitter.com/JavaScriptKicks/status/1412096578719043584)
 - 🏆 Won MLH Fellowship Global Hackathon on theme data ethics, for product [Cryptodrive](https://devpost.com/software/cryptodrive) 
 </details>
@@ -34,9 +32,3 @@ He is a TSC Member at [AsyncAPI Open Source Organization](https://github.com/asy
 - [Integrating SAWO Labs with your React App](https://javascript.plainenglish.io/integrating-sawo-labs-authentication-create-react-app-4601360fd5d0) (Featured by Javascript Official)
 - [Finding your next awesome team at any Hackathon](https://javascript.plainenglish.io/5-steps-to-find-your-awesome-team-at-any-hackathon-3fdbea41f3ea)
 
-
-#### Sounds Interesting!!
-
-We can talk  on [Twitter](https://twitter.com/imabptweets)<br/> or if you would like to see my
-[Resume](https://imabp.github.io/resume)<br/> and you want to [abir.pal899@gmail.com](mailto:abir.pal899@gmail.com), I would be glad.
-<br/>
