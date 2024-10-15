@@ -1,16 +1,15 @@
-Abir- software engineer, creating value for people and businesses to thrive
+#### Abir- software engineer, creating value for people and businesses to thrive
 
-current open source activity
-- TSC Member at [AsyncAPI Project](https://github.com/asyncapi)
-
-previously
-- Google Summer of Code 23 mentor
-- MLH batch 2 fellow
+##### Helping open source by being a 
+- TSC Member at [AsyncAPI Project](https://github.com/asyncapi), Linux Foundation.
+- Google Summer of Code 23 Mentor
+- AsyncAPI Mentorship Program
+- MLH Batch 2 fellow
 - [Featured on Postman Inc.](https://www.youtube.com/watch?v=-P_IGKuYmeY)
-- speaker at daily conference by Georgia tech 
-- gold student partner, Microsoft education.
+- Speaker at daily conference by Georgia tech 
+- Gold student partner, Microsoft Learn.
 
-
+###### Product Hunt Launches
 <br/>
 
 <table>
@@ -22,11 +21,11 @@ previously
 </table>
 
 
-- 🌏 API designing and scaling. [Featured by JavaScript Official ](https://twitter.com/JavaScriptKicks/status/1412096578719043584)
-- 🏆 Won MLH Fellowship Global Hackathon on theme data ethics, for product [Cryptodrive](https://devpost.com/software/cryptodrive) 
+
 </details>
 
-### Write ups
+###### Some blogs/hackathons which I have written previously,
+- [hackathon] 🏆 Won MLH Fellowship Global Hackathon on theme data ethics, for product [Cryptodrive](https://devpost.com/software/cryptodrive) 
 - [Testing 101 in Javascript](https://javascript.plainenglish.io/testing-101-in-javascript-720c752ecfd5)
 - [Demystifying How Email Works in Backend](https://javascript.plainenglish.io/understanding-how-emails-actually-work-behind-the-scenes-a-beginner-friendly-guide-9d129942f617)
 - [Integrating SAWO Labs with your React App](https://javascript.plainenglish.io/integrating-sawo-labs-authentication-create-react-app-4601360fd5d0) (Featured by Javascript Official)
