@@ -3,9 +3,9 @@
 ##### Helping open source by being a 
 - TSC Member at [AsyncAPI Project](https://github.com/asyncapi), Linux Foundation.
 - Google Summer of Code 23 Mentor
+- [Invited to speak at Postman Summit.](https://www.youtube.com/watch?v=-P_IGKuYmeY)
 - AsyncAPI Mentorship Program
 - MLH Batch 2 fellow
-- [Invited to speak at Postman Summit.](https://www.youtube.com/watch?v=-P_IGKuYmeY)
 - Speaker at daily conference by Georgia tech 
 - Gold student partner, Microsoft Learn.
 
