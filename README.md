@@ -5,7 +5,7 @@
 - Google Summer of Code 23 Mentor
 - AsyncAPI Mentorship Program
 - MLH Batch 2 fellow
-- [Featured on Postman Inc.](https://www.youtube.com/watch?v=-P_IGKuYmeY)
+- [Invited to speak at Postman Summit.](https://www.youtube.com/watch?v=-P_IGKuYmeY)
 - Speaker at daily conference by Georgia tech 
 - Gold student partner, Microsoft Learn.
 
