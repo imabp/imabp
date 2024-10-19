@@ -6,7 +6,7 @@
 - [Invited to speak at Postman Summit.](https://www.youtube.com/watch?v=-P_IGKuYmeY)
 - AsyncAPI Mentorship Program
 - MLH Batch 2 fellow
-- Speaker at daily conference by Georgia tech 
+- Speaker at DSAILT conference by Georgia tech 
 - Gold student partner, Microsoft Learn.
 
 ###### Product Hunt Launches
