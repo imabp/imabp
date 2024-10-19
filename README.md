@@ -1,6 +1,6 @@
 #### Abir- software engineer, creating value for people and businesses to thrive
 
-###### Helping open source by being a 
+###### Open Source Activities 
 - TSC Member at [AsyncAPI Project](https://github.com/asyncapi), Linux Foundation.
 - Google Summer of Code 23 Mentor
 - [Invited to speak at Postman Summit.](https://www.youtube.com/watch?v=-P_IGKuYmeY)
